@@ -1,1 +1,17 @@
 /* Add your CSS Below */
+.oneb {
+  position: relative;
+  left: 20px;
+  bottom: 20px;
+}
+
+.twoc {
+  position: absolute;
+  left: 232px;
+  bottom: 202px;
+}
+
+.threea {
+  position: fixed;
+  left: 80%;
+}
